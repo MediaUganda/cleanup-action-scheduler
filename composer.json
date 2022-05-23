@@ -1,0 +1,18 @@
+{
+    "name": "cas/cleanup-action-scheduler",
+    "description": "This is a plugin that allows an admin to create and delete information.",
+    "type": "project",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Mediauganda",
+            "email": "web@mediauganda.com"
+        }
+    ],
+    "config": {
+        "vendor-dir": "lib"
+    },
+    "autoload": {
+        "psr-4": {"Cleanup_Action_Scheduler\\": "./core"}
+    }
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ruleset name="Cleanup Action Scheduler">
+	<arg name="extensions" value="php" />
+	<file>.</file>
+	<rule ref="WordPress">
+		<exclude name="WordPress.Files.FileName.NotHyphenatedLowercase" />
+		<exclude name="WordPress.Files.FileName.InvalidClassFileName" />
+		<exclude name="Generic.Arrays.DisallowShortArraySyntax.Found" />
+		<exclude name="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine" />
+		<exclude name="Squiz.Commenting.ClassComment.Missing" />
+		<exclude name="Squiz.Commenting.FileComment.SpacingAfterComment" />
+	</rule>
+
+	<exclude-pattern>assets</exclude-pattern>
+	<exclude-pattern>freemius</exclude-pattern>
+	<exclude-pattern>language</exclude-pattern>
+	<exclude-pattern>lib</exclude-pattern>
+</ruleset>

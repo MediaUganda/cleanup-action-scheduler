@@ -1,0 +1,28 @@
+{
+	"name": "cleanup-action-scheduler",
+	"version": "0.1.0",
+	"description": "This is a plugin that allows an admin to create and delete information.",
+	"author": "Mediauganda",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mediauganda/cleanup-action-scheduler"
+	},
+	"devDependencies": {
+		"cssnano": "^5.0.5",
+		"gulp": "^4.0.2",
+		"gulp-minify": "^3.1.0",
+		"gulp-postcss": "^9.0.0",
+		"gulp-sass": "^4.1.0",
+		"gulp-typescript": "^6.0.0-alpha.1",
+		"postcss": "^8.3.0",
+		"typescript": "^4.3.2"
+	},
+	"browserslist": [
+		"defaults",
+		"not IE 11",
+		"maintained node versions"
+	],
+	"dependencies": {
+		"gulp-wp-pot": "^2.5.0"
+	}
+}

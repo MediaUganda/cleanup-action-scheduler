@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "allowJs": true,
+    "declaration": false,
+    "outDir": "assets/build/js/",
+    "lib": [
+      "es7",
+      "dom"
+    ]
+  },
+  "include": [
+    "assets/src/js/"
+  ]
+}
