@@ -1,1 +1,1 @@
-.cas-delete{border:none}.cas-delete:hover span{color:#2271b1}.cas-delete span{color:#777}#wpcontent.cas-delete-loader:before{background:#fff;content:"";height:100vh;opacity:.5;position:absolute;top:0;width:100%;z-index:9}
+.cas-delete{background:none;border:none}.cas-delete:hover{background:none}.cas-delete:hover span{color:#2271b1}.cas-delete span{color:#777}#wpcontent .cas-delete-loader:before{background:#fff;content:"";height:100vh;opacity:.5;position:absolute;top:0;width:100%;z-index:9}
