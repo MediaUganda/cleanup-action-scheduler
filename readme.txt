@@ -1,7 +1,7 @@
 === Cleanup Action Scheduler ===
 Contributors: mediauganda, laurencebahiirwa, faithimokol
 Donate link: https://paypal.me/laurencebahiirwa
-Tags: woocommerce, action, scheduler, cleanup
+Tags: woocommerce, action, scheduler, cleanup, cron, job, woocommerce
 Requires at least: 4.9
 Requires PHP: 7.0
 Tested up to: 5.9.3
