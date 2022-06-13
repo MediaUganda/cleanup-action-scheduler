@@ -8,14 +8,14 @@
 		"url": "https://github.com/mediauganda/cleanup-action-scheduler"
 	},
 	"devDependencies": {
-		"cssnano": "^5.0.5",
+		"cssnano": "^5.1.11",
 		"gulp": "^4.0.2",
 		"gulp-minify": "^3.1.0",
 		"gulp-postcss": "^9.0.0",
 		"gulp-sass": "^4.1.0",
 		"gulp-typescript": "^6.0.0-alpha.1",
-		"postcss": "^8.3.0",
-		"typescript": "^4.3.2"
+		"postcss": "^8.4.14",
+		"typescript": "^4.7.3"
 	},
 	"browserslist": [
 		"defaults",

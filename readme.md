@@ -9,6 +9,7 @@ Delete Action Scheduler Events to avoid having large database tables.
 #### Free Plugin
 - [x] Add delete icons for each state in admin area including pending actions..
 - [x] Add option to change default cleanup for the Action Scheduler.
+- [x] Advanced settings to allow better usage of the Action Scheduler plugin performance.
 
 #### Premium Plugin
 - [x] All Free plugin features plus:
