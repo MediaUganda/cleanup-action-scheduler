@@ -5,7 +5,7 @@ Tags: woocommerce, action, scheduler, cleanup, cron, job, woocommerce
 Requires at least: 4.9
 Requires PHP: 7.0
 Tested up to: 5.9.3
-Stable tag: 1.2.0
+Stable tag: 1.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,9 +36,14 @@ Deactivate the Plugin and activate it again.
 
 == Changelog ==
 
+=== 1.2.1 ===
+
+* Update: FS SDK to add new garbage collector and fix PHP 8+ errors.
+
 === 1.2.0 ===
 
 * Important bug fixes.
+
 === 1.1.0 ===
 
 * Added new enhancement settings to allow better usage of the Action Scheduler plugin performance.

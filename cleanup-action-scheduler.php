@@ -6,7 +6,7 @@
  * Description: Cleanup rows of Action Scheduler or Woocommerce data recorded in your Database.
  * Author:      Media Uganda
  * Author URI:  https://mediauganda.com/
- * Version:     1.2.0
+ * Version:     1.2.1
  * Text Domain: cleanup-action-scheduler
  * 
  * 

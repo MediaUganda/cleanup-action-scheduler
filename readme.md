@@ -1,6 +1,9 @@
 # Cleanup Action Scheduler
 
-![CodeQL Analysis](https://github.com/github/docs/actions/workflows/codeql-analysis.yml/badge.svg?event=push)
+![WordPress Plugin Active Installs](https://img.shields.io/wordpress/plugin/installs/cleanup-action-scheduler)
+![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/cleanup-action-scheduler)
+![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/rating/cleanup-action-scheduler)
+![WordPress Plugin Last Updated](https://img.shields.io/wordpress/plugin/last-updated/cleanup-action-scheduler)
 
 Delete Action Scheduler Events to avoid having large database tables.
 
