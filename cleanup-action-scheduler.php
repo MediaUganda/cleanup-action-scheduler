@@ -1,14 +1,16 @@
 <?php
 
 /**
- * Plugin Name: Cleanup Action Scheduler
- * Plugin URI:  https://mediauganda.com/software/cleanup-action-scheduler
- * Description: Cleanup rows of Action Scheduler or Woocommerce data recorded in your Database.
- * Author:      Media Uganda
- * Author URI:  https://mediauganda.com/
- * Version:     1.2.1
- * Text Domain: cleanup-action-scheduler
- * 
+ * Plugin Name:       Cleanup Action Scheduler
+ * Plugin URI:        https://mediauganda.com/software/cleanup-action-scheduler
+ * Description:       Cleanup rows of Action Scheduler or Woocommerce data recorded in your Database.
+ * Author:            Media Uganda
+ * Author URI:        https://mediauganda.com/
+ * Version:           1.2.1
+ * Text Domain:       cleanup-action-scheduler
+ * Requires at least: 4.9
+ * Requires PHP:      7.0
+ * Tested up to:      6.4.3
  * 
  * @package Cleanup_Action_Scheduler
  */
